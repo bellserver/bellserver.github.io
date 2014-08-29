@@ -10,11 +10,11 @@ The first version of the BeLL System was based on the popular content management
 ## BeLL v2 
 The second iteration of the BeLL focused on gaining sneakernet capabilities, power requirements, and reducing the cost of the server. This was accomplished by using a Raspberry Pi Linux computer as the server and CouchDB as the application stack for the Library.
 - [Build a BeLL v2](BeLL-Ground-Server-Manual/README.md)
-- [Demo of BeLL Server sneakernet capabilities](https://www.youtube.com/watch?v=aQWXaOVAJcQ)
+- [Video Demo of BeLL Server sneakernet capabilities](https://www.youtube.com/watch?v=aQWXaOVAJcQ)
 
 ## BeLL v3
 USAID funded the Ghana Reads program and a special Learning Management System was customized for the Ghana experience. The underlying technologies are based on the Raspberry Pi Linux computer and CouchDB.
-- [Demo of the LMS on BeLL v3 and associated Online Feedback Portal](https://www.youtube.com/watch?v=2q-qUQCi6Hc)
+- [Video Demo of the LMS on BeLL v3 and associated Online Feedback Portal](https://www.youtube.com/watch?v=2q-qUQCi6Hc)
 
 ## BeLL v4
 - [BeLL v4: Definitions, Epics, and User Stories](https://docs.google.com/a/ole.org/document/d/1MzuQOJdniVaBP-LxaqOzT7Zs_KbFVYDVYZzhMUeYP4A/edit)
