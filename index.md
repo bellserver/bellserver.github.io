@@ -8,7 +8,7 @@ Below are links to help technical folks get involved with the BeLL Server Projec
 - [Demo of BeLL Server sneakernet capabilities](https://www.youtube.com/watch?v=aQWXaOVAJcQ)
 
 ## BeLL v2 Links
-- [Demo of the LMS on BeLL v2](https://www.youtube.com/watch?v=2q-qUQCi6Hc)
+- [Demo of the LMS on BeLL v2 and associated Online Feedback Portal](https://www.youtube.com/watch?v=2q-qUQCi6Hc)
 
 ## BeLL v3 Links
 - [BeLL v3: Definitions, Epics, and User Stories](https://docs.google.com/a/ole.org/document/d/1MzuQOJdniVaBP-LxaqOzT7Zs_KbFVYDVYZzhMUeYP4A/edit)
