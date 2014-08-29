@@ -3,14 +3,21 @@ The BeLL Server Project targets lowers the barrier to accessing high quality bas
 
 Below are links to help technical folks get involved with the BeLL Server Project.
 
-## BeLL v1 Links
+## BeLL v1
+The first version of the BeLL System was based on the popular content management system known as Drupal.  It was implemented in a pilot program known as Ghana Lite between Open Learning Exchange International and Open Learning Exchange Ghana.
+- [About he Ghana Lite pilot](http://cms.oleghana.org/ghana-lite/)
+
+## BeLL v2 
+The second iteration of the BeLL focused on gaining sneakernet capabilities, power requirements, and reducing the cost of the server. This was accomplished by using a Raspberry Pi Linux computer as the server and CouchDB as the application stack for the Library.
 - [Build a BeLL v1](BeLL-Ground-Server-Manual/README.md)
 - [Demo of BeLL Server sneakernet capabilities](https://www.youtube.com/watch?v=aQWXaOVAJcQ)
 
-## BeLL v2 Links
+## BeLL v3
+USAID funded the Ghana Reads program and a special Learning Management System was customized for the Ghana experience. The underlying technologies are based on the Raspberry Pi Linux computer and CouchDB.
 - [Demo of the LMS on BeLL v2 and associated Online Feedback Portal](https://www.youtube.com/watch?v=2q-qUQCi6Hc)
 
-## BeLL v3 Links
+## BeLL v4
 - [BeLL v3: Definitions, Epics, and User Stories](https://docs.google.com/a/ole.org/document/d/1MzuQOJdniVaBP-LxaqOzT7Zs_KbFVYDVYZzhMUeYP4A/edit)
 - [BeLL Development Tasks](https://docs.google.com/a/ole.org/spreadsheets/d/1CZe6kSW-FueFnWE4x77EPtd48xlX3TYUOMv3oUoU78o/edit#gid=148437065)
+- [BeLL Apps Release Strategy](BeLL-Apps-Release-Strategy/README.md)
 - Demo coming soon!
